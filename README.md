@@ -1,4 +1,4 @@
-# Banco de Dados de Oficina Mecânica 🚗🔧 / Heineken
+# Banco de Dados de Oficina Mecânica 🚗🔧 / Desafio Heineken
 Este banco de dados é projetado para gerenciar uma oficina mecânica, 
 incluindo clientes, veículos, mecânicos, equipes, ordens de serviço, 
 serviços e peças. Ele conecta clientes aos seus veículos, veículos 
